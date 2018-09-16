@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="doya_buttonId" type="id" />
+    <item name="aura_buttonId" type="id" />
+    <item name="gloom_buttonId" type="id" />
+    <item name="thirdButton" type="id" />
+    <item name="prayer_buttonId1" type="id">11</item>
+</resources>

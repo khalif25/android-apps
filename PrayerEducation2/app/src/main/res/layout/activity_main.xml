@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/img"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/salat_buttonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="@string/prayer_button1"
+        android:textStyle="bold"
+        style="@style/Widget.AppCompat.Button.Colored"
+        />
+    <Button
+        android:id="@+id/prayer_buttonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="@string/prayer_button2"
+        android:textStyle="bold"
+        style="@style/Widget.AppCompat.Button.Colored"
+        />
+    <Button
+       android:id="@+id/prayer_buttonId1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+       android:text="Prayer of aura"
+        android:textStyle="bold"
+        style="@style/Widget.AppCompat.Button.Colored"
+        />
+    <Button
+        android:id="@+id/fouth_buttonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="Five Gloom aggregate"
+        android:textStyle="bold"
+        style="@style/Widget.AppCompat.Button.Colored"
+        />
+    <Button
+        android:id="@+id/fifth_buttonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="Prayer for different parts of salat"
+        android:textStyle="bold"
+        style="@style/Widget.AppCompat.Button.Colored"
+        />
+    <Button
+        android:id="@+id/sixth_buttonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="Five times the intention of prayers"
+        android:textStyle="bold"
+        style="@style/Widget.AppCompat.Button.Colored"
+        />
+    <Button
+        android:id="@+id/seventh_buttonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="Fasting and tarabi prayers"
+        android:textStyle="bold"
+        style="@style/Widget.AppCompat.Button.Colored"
+        />
+    <Button
+        android:id="@+id/eighth_buttonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="Eid al -Fitar and Eid al- Azhar"
+        android:textStyle="bold"
+        style="@style/Widget.AppCompat.Button.Colored"
+        />
+
+
+</LinearLayout>

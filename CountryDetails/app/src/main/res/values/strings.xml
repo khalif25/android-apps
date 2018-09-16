@@ -1,0 +1,150 @@
+<resources>
+    <string name="app_name">CountryDetails</string>
+    <string name="bangladesh_button">Bangladesh</string>
+    <string name="india_button">India</string>
+    <string name="brazil_button">Brazil</string>
+    <string name="afghanistan_button">Afghanistan</string>
+    <string name="argentina_button">Argentina</string>
+    <string name="germany_button">Germany</string>
+    <string name="austria_button">Austria</string>
+
+    <string name="bangladesh_text">
+        Bangladesh, to the east of India on the Bay of Bengal,
+             is a South Asian country marked by lush greenery and many waterways.//n
+            Its Padma (Ganges), Meghna and Jamuna rivers create fertile plains, and travel by boat is common.//n
+             On the southern coast, the Sundarbans, an enormous mangrove forest shared with Eastern India,
+             is home to the royal Bengal tiger.Most of Bangladesh is covered by the Bengal Delta, the largest delta on Earth.
+             The country has 700 rivers and 8,046 km (5,000 mi) of inland waterways.
+             Highlands with evergreen forests are found in the northeastern and southeastern regions of the country.
+             Bangladesh has many islands and a coral reef.//n
+             The longest unbroken sea beach of the world, Cox's Bazar Beach, is located in the southeast.
+             It is home to the Sundarbans, the largest mangrove forest in the world.//n
+             The country's biodiversity includes a vast array of plant and wildlife,
+            including endangered Bengal tigers, the national animal.
+
+    </string>
+
+    <string name="india_text">
+
+                        India is a vast South Asian country with diverse terrain
+                     – from Himalayan peaks to Indian Ocean coastline – and history reaching back 5 millennia.
+                     In the north, Mughal Empire landmarks include Delhi’s Red Fort complex and massive Jama Masjid mosque,
+                     plus Agra’s iconic Taj Mahal mausoleum.
+                                Pilgrims bathe in the Ganges in Varanasi, and Rishikesh is a yoga centre and base for Himalayan trekking.
+
+                    The Indian subcontinent was home to the urban Indus Valley Civilisation of the 3rd millennium BCE.
+                     In the following millennium, the oldest scriptures associated with Hinduism began to be composed.//n
+                     Social stratification, based on caste, emerged in the first millennium BCE, and Buddhism and Jainism arose.
+                    Early political consolidations took place under the Maurya and Gupta empires;
+                     the later peninsular Middle Kingdoms influenced cultures as far as southeast Asia.//n
+                     In the medieval era, Judaism, Zoroastrianism, Christianity, and Islam arrived, and Sikhism emerged,
+                     all adding to the region's diverse culture. Much of the north fell to the Delhi Sultanate;
+                     the south was united under the Vijayanagara Empire.//n
+                     The economy expanded in the 17th century in the Mughal Empire.
+                    In the mid-18th century, the subcontinent came under British East India Company rule,
+                     and in the mid-19th under British crown rule.//n
+                     A nationalist movement emerged in the late 19th century, which later, under Mahatma Gandhi,
+                     was noted for nonviolent resistance and led to India's independence in 1947.
+
+
+    </string>
+
+    <string name="brazil_text">
+                Brazil, a vast South American country,
+         stretches from the Amazon Basin in the north to vineyards and massive Iguaçu Falls in the south.//n
+         Rio de Janeiro, symbolized by its 38m Christ the Redeemer statue atop Mount Corcovado,
+         is famed for its busy Copacabana and Ipanema beaches as well as its enormous, raucous Carnaval festival,
+        featuring parade floats, flamboyant costumes, and samba music and dance.
+        Brazil was inhabited by numerous tribal nations prior to the landing in 1500 of explorer Pedro Álvares Cabral,
+         who claimed the area for the Portuguese Empire.//n
+         Brazil remained a Portuguese colony until 1808,
+         when the capital of the empire was transferred from Lisbon to Rio de Janeiro.//n
+        In 1815, the colony was elevated to the rank of kingdom upon the formation of the United Kingdom of Portugal,
+        Brazil and the Algarves.
+         Independence was achieved in 1822 with the creation of the Empire of Brazil,
+         a unitary state governed under a constitutional monarchy and a parliamentary system.
+         The ratification of the first constitution in 1824 led to the formation of a bicameral legislature,
+         now called the National Congress.//n
+         The country became a presidential republic in 1889 following a military coup d'état.
+         An authoritarian military junta came to power in 1964 and ruled until 1985,
+        after which civilian governance resumed.//n
+         Brazil's current constitution, formulated in 1988, defines it as a democratic federal republic.
+         Due to its rich culture and history, the country ranks thirteenth in the world by number of UNESCO World Heritage Sites.//n
+
+
+
+
+    </string>
+
+    <string name="afghanistan_text">
+               Afghanistan, officially the Islamic Republic of Afghanistan, is a landlocked country located within South Asia.
+        Afghanistan is bordered by Pakistan in the south and east;
+             Iran in the west; Turkmenistan, Uzbekistan,
+            and Tajikistan in the north; and in the far northeast, China
+            Human habitation in Afghanistan dates back to the Middle Paleolithic Era,
+             and the country\'s strategic location along the Silk Road connected it to the cultures of the Middle East and other parts of Asia. The land has historically been home to various peoples and has witnessed numerous military campaigns,
+             including those by Alexander the Great, Mauryas, Muslim Arabs, Mongols, British, Soviet,
+             and since 2001 by the United States with NATO-allied countries. It has been called "unconquerable"
+            and nicknamed the "graveyard of empires".
+             The land also served as the source from which the Kushans, Hephthalites, Samanids, Saffarids, Ghaznavids, Ghorids, Khaljis, Mughals, Hotaks, Durranis, and others have risen to form major empires.
+            The political history of the modern state of Afghanistan began with the Hotak and Durrani dynasties in the 18th century.
+            In the late 19th century, Afghanistan became a buffer state in the "Great Game" between British India and the Russian Empire. Its border with British India, the Durand Line, was formed in 1893 but it is not recognized by
+            the Afghan government and it has led to strained relations with Pakistan since the latter's independence in 1947.
+
+
+    </string>
+
+    <string name="argentina_text">
+       Argentina is a massive South American nation with terrain encompassing Andes mountains,
+         glacial lakes and Pampas grassland, the traditional grazing ground of its famed beef cattle.
+         The country is famous for tango dance and music.
+         Its big, cosmopolitan capital, Buenos Aires, is centered on the Plaza de Mayo,
+         lined with stately 19th-century buildings including Casa Rosada, the iconic, balconied presidential palace.
+        The earliest recorded human presence in the area of modern-day Argentina dates back to the Paleolithic period.
+         The country has its roots in Spanish colonization of the region during the 16th century.
+         Argentina rose as the successor state of the Viceroyalty of the Río de la Plata,
+         a Spanish overseas viceroyalty founded in 1776.
+         The declaration and fight for independence (1810–1818) was followed by an extended civil war that lasted until 1861,
+        culminating in the country's reorganization as a federation of provinces with Buenos Aires as its capital city.
+        The country thereafter enjoyed relative peace and stability,
+         with massive waves of European immigration radically reshaping its cultural and demographic outlook.
+         The almost-unparalleled increase in prosperity led to
+        Argentina becoming the seventh wealthiest developed nation in the world by the early 20th century.
+
+    </string>
+
+    <string name="germany_text">
+        Germany is a Western European country with a landscape of forests, rivers, mountain ranges and North Sea beaches.
+         It has over 2 millennia of history. Berlin, its capital, is home to art and nightlife scenes,
+        the Brandenburg Gate and many sites relating to WWII.
+         Munich is known for its Oktoberfest and beer halls, including the 16th-century Hofbräuhaus.
+         Frankfurt, with its skyscrapers, houses the European Central Bank.
+        Various Germanic tribes have inhabited the northern parts of modern Germany since classical antiquity.
+         A region named Germania was documented before 100 AD. During the Migration Period,
+        the Germanic tribes expanded southward.
+         Beginning in the 10th century, German territories formed a central part of the Holy Roman Empire.
+         During the 16th century, northern German regions became the centre of the Protestant Reformation.
+         After the collapse of the Holy Roman Empire, the German Confederation was formed in 1815.
+         The German revolutions of 1848–49 resulted in the Frankfurt Parliament establishing major democratic rights.
+    </string>
+    <string name="austria_text">
+           Austria is a German-speaking country in Central Europe, characterized by mountain villages,
+             baroque architecture, Imperial history and rugged Alpine terrain.
+             Vienna, its Danube River capital, is home to the Schönbrunn and Hofburg palaces.
+             It has counted Mozart, Strauss and Freud among its residents.
+             The country’s other notable regions include the northern Bohemian Forest, Traunsee Lake and eastern hillside vineyard.
+            Austria is a parliamentary representative democracy comprising nine federated states.
+            The capital and largest city, with a population exceeding 1.8 million, is Vienna.
+            Other major urban areas of Austria include Graz, Linz, Salzburg and Innsbruck.
+             Austria is consistently ranked as one of the richest countries in the world by per capita GDP terms.
+            The country has developed a high standard of living and
+             in 2014 was ranked 21st in the world for its Human Development Index.
+             The republic declared its perpetual neutrality in foreign political affairs in 1955.
+             Austria has been a member of the United Nations since 1955,
+             joined the European Union in 1995, and is a founder of the OECD.
+             Austria also signed the Schengen Agreement in 1995,and adopted the euro currency in 1999.
+
+    </string>
+
+
+</resources>

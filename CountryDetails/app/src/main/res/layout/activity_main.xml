@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/bangpic"
+    tools:context=".MainActivity">
+
+
+        <Button
+            android:id="@+id/bangladesh_buttonId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bangladesh_button"
+            android:textSize="20sp"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:textStyle="bold"/>
+
+             <Button
+            android:id="@+id/india_buttonId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/india_button"
+            android:textSize="20sp"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:textStyle="bold"/>
+
+
+              <Button
+            android:id="@+id/brazil_buttonId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/brazil_button"
+            android:textSize="20sp"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:textStyle="bold"/>
+
+                 <Button
+                    android:id="@+id/afghanistan_buttonId"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/afghanistan_button"
+                    android:textSize="20sp"
+                    style="@style/Widget.AppCompat.Button.Colored"
+                    android:textStyle="bold"/>
+
+                 <Button
+            android:id="@+id/argentina_buttonId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/argentina_button"
+            android:textSize="20sp"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:textStyle="bold"/>
+             <Button
+            android:id="@+id/germany_buttonId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/germany_button"
+            android:textSize="20sp"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:textStyle="bold"/>
+
+        <Button
+            android:id="@+id/austria_buttonId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/austria_button"
+            android:textSize="20sp"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:textStyle="bold"/>
+
+
+
+</LinearLayout>
